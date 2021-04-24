@@ -1,9 +1,10 @@
 language: java
-sudo: false # faster builds
+
+sudo: required
 
 jdk:
   - oraclejdk11
-
+  
 before_install:
   - chmod +x mvnw
 
