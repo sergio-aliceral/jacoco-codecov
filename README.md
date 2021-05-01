@@ -4,8 +4,6 @@ Cobertura de código com Jacoco e Codecov.
 [![Build Status](https://travis-ci.com/sergio-aliceral/jacoco-codecov.svg?branch=master)](https://travis-ci.com/sergio-aliceral/jacoco-codecov)
 [![codecov](https://codecov.io/gh/sergio-aliceral/jacoco-codecov/branch/master/graph/badge.svg?token=TM61DT746O)](https://codecov.io/gh/sergio-aliceral/jacoco-codecov)
 
-[![Build Status](https://travis-ci.com/sergio-aliceral/integracao-continua.svg?branch=master)](https://travis-ci.com/sergio-aliceral/integracao-continua)
-
 ## Iniciando
 
 - `git clone https://github.com/sergio-aliceral/jacoco-codecov.git`
